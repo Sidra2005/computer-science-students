@@ -1,1 +1,1 @@
-# computer-science-students
+# AICTE PROJECT
